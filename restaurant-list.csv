@@ -1,0 +1,647 @@
+﻿Restaurant,Cuisine,Budget,Location
+Eat Tokyo,Japanese,Moderate,Soho
+Flat Iron,British,Moderate,Soho
+Dishoom,Indian,Moderate,Kings Cross
+Roti King,Malaysian,Cheap,Kings Cross
+C and R Café,Malaysian,Cheap,Soho
+Burger and Lobster,Burgers,Expensive,Soho
+Bibimbap,Korean,Cheap,Soho
+Duck and Waffle,British,Expensive,Shoreditch
+Aqua Shard,British,Expensive,Southbank
+Zuma,Japanese,Expensive,Kensington
+Regency Café,British,Cheap,Westminster
+Sketch,British,Expensive,Mayfair
+Hawksmoor Seven Dials,British,Expensive,Covent Garden
+Ffiona's Restaurant,British,Moderate,Kensington
+Mother Mash,British,Cheap,Soho
+Lanzhou Noodle Bar,Chinese,Cheap,Covent Garden
+Mayfair Chippy,Fish and Chips,Moderate,Mayfair
+Laughing Halibut,Fish and Chips,Cheap,Westminster
+Padella,Italian,Moderate,Southbank
+Ye Olde Cheshire Cheese,British,Moderate,City of London
+Pieminister,British,Cheap,Westminster
+Naru,Korean,Moderate,Soho
+The Colonel Fawcett,British,Moderate,Camden
+Mien Tay,Vietnamese,Cheap,Shoreditch
+Savoir Faire,French,Moderate,Soho
+NOPI,Medditerranean,Expensive,Soho
+Barrafina,Spanish,Moderate,Covent Garden
+Misato,Japanese,Cheap,Soho
+Royal China,Chinese,Moderate,Bayswater
+Punjab,Indian,Moderate,Covent Garden
+Dinner by Heston Bluemental,British,Expensive,Kensington
+Homeslice Neal's Yard,Italian,Cheap,Covent Garden
+Paolina's Thai Café,Thai,Cheap,Kings Cross
+Orjowan Lebanese Cuisine,Middle Eastern,Moderate,Kensington
+Rocca,Italian,Moderate,Kensington
+Kintan Japanese BBQ,Japanese,Moderate,Covent Garden
+Zeitgeist,German,Moderate,Southbank
+The Tiroler hut Restaurant,German,Moderate,Bayswater
+Domo 94,Italian,Moderate,Camden
+Sen Viet,Vietnamese,Moderate,Kings Cross
+Smoking Goat,Thai,Moderate,Shoreditch
+Mohsen,Middle Eastern,Moderate,Kensington
+Jinjuu,Korean,Expensive,Soho
+Yauatcha,Chinese,Expensive,Soho
+Brizzi's,Italian,Cheap,Kings Cross
+Fez Mangal,Middle Eastern,Cheap,Notting Hill
+Mango Indian,Indian,Moderate,Southbank
+El Parador,Spanish,Moderate,Camden
+Lemonia,Medditerranean,Moderate,Camden
+The Barbary,Medditerranean,Expensive,Covent Garden
+Restaurant Story,British,Expensive,Southbank
+Balthazar,French,Expensive,Covent Garden
+Andy's Greek Taverna,Medditerranean,Cheap,Camden
+Lupita,Mexican,Moderate,Kensington
+Alounak,Middle Eastern,Moderate,Bayswater
+Makan Café,Malaysian,Cheap,Notting Hill
+Yalla Yalla,Middle Eastern,Moderate,Soho
+Busaba Soho,Thai,Moderate,Soho
+The Athenian Boxpark,Medditerranean,Cheap,Shoreditch
+Jamon Jamon,Spanish,Moderate,Camden
+Bodean's,Barbeque,Moderate,Soho
+Roka,Japanese,Expensive,Canary Wharf
+Tom's Kitchen Canary Wharf,British,Moderate,Canary Wharf
+Wahaca Canary Wharf,Mexican,Moderate,Canary Wharf
+Wagamama Canary Wharf,Japanese,Moderate,Canary Wharf
+Zizzi Canary Wharf,Italian,Moderate,Canary Wharf
+Iberica Canary Wharf,Spanish,Moderate,Canary Wharf
+Yuhoki Japanese Restaurant,Japanese,Cheap,Canary Wharf
+Boisdale of Canary Wharf,British,Expensive,Canary Wharf
+Leon Canary Wharf,British,Cheap,Canary Wharf
+Tortilla Canary Wharf,Mexican,Cheap,Canary Wharf
+Bella Cosa Restaurant Canary Wharf,Italian,Expensive,Canary Wharf
+Vesuvio Café,Italian,Cheap,Canary Wharf
+Royal China Canary Riverside London,Chinese,Moderate,Canary Wharf
+Noodle Street,Chinese,Cheap,Canary Wharf
+Aniseed,Indian,Cheap,Canary Wharf
+Chai Ki,Indian,Moderate,Canary Wharf
+Plateau,French,Expensive,Canary Wharf
+Café Rouge Canary Wharf,French,Moderate,Canary Wharf
+Lemongrass Kitchen,Thai,Moderate,Canary Wharf
+Tapaunow,Malaysian,Cheap,Canary Wharf
+Big Easy Canary Wharf,Barbeque,Moderate,Canary Wharf
+Manhattan Grill Canary Wharf,Barbeque,Expensive,Canary Wharf
+Bryon Canary Wharf,Burgers,Moderate,Canary Wharf
+Grill'd,Burgers,Cheap,Canary Wharf
+Gaucho Canary Wharf,Burgers,Expensive,Canary Wharf
+Britannia Fish Bar,Fish and Chips,Cheap,Canary Wharf
+The Merchant,Fish and Chips,Moderate,Canary Wharf
+Velo,Vietnamese,Cheap,Canary Wharf
+Yokoso Korean and Japanese Restaurant,Korean,Moderate,Canary Wharf
+Garbanzos,Medditerranean,Cheap,Canary Wharf
+The Old Millwall Fire Station Restaurant,Medditerranean,Moderate,Canary Wharf
+Kenza ,Middle Eastern,Expensive,Canary Wharf
+Byblos Harbour,Middle Eastern,Moderate,Canary Wharf
+Misato,Japanese,Cheap,Soho
+Engawa,Japanese,Expensive,Soho
+Banana Tree Soho,Malaysian,Moderate,Soho
+Patara Thai Restaurant,Thai,Expensive,Soho
+Siam Café Soho,Thai,Cheap,Soho
+Gauthier Soho,French,Expensive,Soho
+Pierre Victoire,French,Moderate,Soho
+Herman Ze German,German,Cheap,Soho
+Bocca di Lupo,Italian,Expensive,Soho
+Mele e Pere,Italian,Moderate,Soho
+Mister Lasagna,Italian,Cheap,Soho
+Tapas Brindisa Soho,Spanish,Moderate,Soho
+Aqua Nueva,Spanish,Expensive,Soho
+La Bodega Negra,Mexican,Expensive,Soho
+Corazon,Mexican,Moderate,Soho
+Chilango,Mexican,Cheap,Soho
+Masala Zone Soho,Indian,Moderate,Soho
+Govinda's Pure Vegetarian Restaurant,Indian,Cheap,Soho
+Veeraswamy,Indian,Expensive,Soho
+Imperial China,Chinese,Moderate,Soho
+Café TPT,Chinese,Cheap,Soho
+Viet Pho,Vietnamese,Cheap,Soho
+Cay Tre Soho,Vietnamese,Moderate,Soho
+Temper Soho,Barbeque,Expensive,Soho
+HIX Soho,British,Expensive,Soho
+Bill's Soho Restaurant,British,Moderate,Soho
+Stax Diner,Burgers,Moderate,Soho
+Cookhouse Joe,Burgers,Cheap,Soho
+Golden Union,Fish and Chips,Moderate,Soho
+Randall and Aubin Soho,Fish and Chips,Expensive,Soho
+Koshari Street,Middle Eastern,Cheap,Soho
+Ishbilia Lebanese Restaurant,Middle Eastern,Expensive,Soho
+Suvlaki Soho,Medditerranean,Moderate,Soho
+Asakusa,Japanese,Moderate,Camden
+Mamak Don,Malaysian,Cheap,Camden
+Miusan,Malaysian,Moderate,Camden
+Mayling,Chinese,Cheap,Camden
+Miusan,Chinese,Moderate,Camden
+Feng Shang Princess,Chinese,Expensive,Camden
+Masala Zone Camden,Indian,Moderate,Camden
+Curry 4 U,Indian,Cheap,Camden
+Cote Brasserie,French,Moderate,Camden
+Crepes a la carte,French,Cheap,Camden
+Thanh Binh,Vietnamese,Cheap,Camden
+Muang Thai Restaurant,Thai,Moderate,Camden
+Taste of Siam,Thai,Cheap,Camden
+Tortilla Camden,Mexican,Cheap,Camden
+Café Chula,Mexican,Moderate,Camden
+Papa John's ,Italian,Cheap,Camden
+Bar Gansa London,Spanish,Moderate,Camden
+German Doner Kebab,German,Cheap,Camden
+Earl of Camden,British,Moderate,Camden
+Odette's ,British,Expensive,Camden
+Poppie's,Fish and Chips,Moderate,Camden
+Chris' Fish Bar,Fish and Chips,Cheap,Camden
+Hache Burgers Camden,Burgers,Moderate,Camden
+Mcdonalds,Burgers,Cheap,Camden
+Porky's BBQ Camden,Barbeque,Moderate,Camden
+Zala Levantine Grill,Middle Eastern,Moderate,Camden
+Oli Baba's,Middle Eastern,Cheap,Camden
+Yamas Greek Cuisine,Medditerranean,Cheap,Camden
+Nanashi Shoreditch,Japanese,Moderate,Shoreditch
+Nobu Shoreditch,Japanese,Expensive,Shoreditch
+The Japanese Canteen,Japanese,Cheap,Shoreditch
+Ekachai,Malaysian,Moderate,Shoreditch
+Momo Canteen,Malaysian,Cheap,Shoreditch
+Bierschenke,German,Moderate,Shoreditch
+The Sichuan Restaurant,Chinese,Moderate,Shoreditch
+Neds Noodle Bar,Chinese,Cheap,Shoreditch
+Gunpowder,Indian,Moderate,Shoreditch
+Meraz,Indian,Cheap,Shoreditch
+Cay Tre Shoreditch,Vietnamese,Moderate,Shoreditch
+Busaba Shoreditch,Thai,Moderate,Shoreditch
+FAB Thai Street Food,Thai,Cheap,Shoreditch
+Lupita,Mexican,Moderate,Shoreditch
+Chilango,Mexican,Cheap,Shoreditch
+Savure London,Italian,Moderate,Shoreditch
+Olive,Italian,Cheap,Shoreditch
+Bottega Prelibato,Italian,Expensive,Shoreditch
+Galvin La Chapelle,French,Moderate,Shoreditch
+Club Gascon,French,Expensive,Shoreditch
+Bellanger,French,Cheap,Shoreditch
+Camino Shoreditch,Spanish,Moderate,Shoreditch
+Sagardi,Spanish,Expensive,Shoreditch
+Canteen Spitalfields,British,Moderate,Shoreditch
+The Clove Club,British,Expensive,Shoreditch
+Open Kitchen,British,Cheap,Shoreditch
+On the bab,Korean,Moderate,Shoreditch
+SmokeStak,Barbeque,Moderate,Shoreditch
+Bar-B-Que,Barbeque,Cheap,Shoreditch
+Byron Shoreditch,Burgers,Moderate,Shoreditch
+Dirty Burger Shoreditch,Burgers,Cheap,Shoreditch
+Gourmet Burger Kitchen ,Burgers,Expensive,Shoreditch
+Poppie's,Fish and Chips,Moderate,Shoreditch
+Hunger Cure Fish & Chip Kebab,Fish and Chips,Cheap,Shoreditch
+Delamina East,Middle Eastern,Moderate,Shoreditch
+City Best Kebab,Middle Eastern,Cheap,Shoreditch
+Kenza ,Middle Eastern,Expensive,Shoreditch
+The Real Greek,Medditerranean,Moderate,Shoreditch
+Ottolenghi,Medditerranean,Expensive,Shoreditch
+Arancina,Italian,Cheap,Notting Hill
+Osteria Basilico,Italian,Moderate,Notting Hill
+Assaggi Restaurant,Italian,Expensive,Notting Hill
+Eat Tokyo,Japanese,Cheap,Notting Hill
+Tonkotsu,Japanese,Moderate,Notting Hill
+Cocoro Kaiseki,Japanese,Expensive,Notting Hill
+Chopstix,Chinese,Cheap,Notting Hill
+ULI,Chinese,Moderate,Notting Hill
+E & O,Chinese,Expensive,Notting Hill
+Chelsea Spice and Grill,Indian,Cheap,Notting Hill
+Malabar Restaurant,Indian,Moderate,Notting Hill
+PAUL Holland Park,French,Cheap,Notting Hill
+Cote Brasserie,French,Moderate,Notting Hill
+Aubaine Notting Hill,French,Expensive,Notting Hill
+Brown Rice Restaurant,Thai,Cheap,Notting Hill
+Market Thai,Thai,Moderate,Notting Hill
+La Plaza Tapas Bar,Spanish,Moderate,Notting Hill
+Tapas Revolution,Spanish,Cheap,Notting Hill
+Pho Westfield,Vietnamese,Cheap,Notting Hill
+MAM Vietnamese BBQ,Vietnamese,Moderate,Notting Hill
+Tem Tep,Vietnamese,Expensive,Notting Hill
+German Doner Kebab,German,Cheap,Notting Hill
+The Tiroler hut Restaurant,German,Moderate,Notting Hill
+Bulgogi,Korean,Moderate,Notting Hill
+Flat Three,Korean,Expensive,Notting Hill
+Makan Café,Malaysian,Cheap,Notting Hill
+ULI,Malaysian,Moderate,Notting Hill
+The Shed,British,Moderate,Notting Hill
+Core by Claire Smyth,British,Expensive,Notting Hill
+Pret a Manger,British,Cheap,Notting Hill
+Comptoir Libanais,Middle Eastern,Moderate,Notting Hill
+Morrocan Sahara Restaurant,Middle Eastern,Expensive,Notting Hill
+Fez Mangal,Medditerranean,Cheap,Notting Hill
+The Real Greek Westfield,Medditerranean,Moderate,Notting Hill
+Mazi,Medditerranean,Expensive,Notting Hill
+Notting Hill Kebab London,Barbeque,Cheap,Notting Hill
+MAM Vietnamese BBQ,Barbeque,Moderate,Notting Hill
+Beach Blanket Babylon,Barbeque,Expensive,Notting Hill
+Taqueria,Mexican,Moderate,Notting Hill
+Peyotito,Mexican,Expensive,Notting Hill
+Tortilla Westfield London,Mexican,Cheap,Notting Hill
+George's Portobello Fish Bar,Fish and Chips,Cheap,Notting Hill
+The Fish House of Notting Hill,Fish and Chips,Moderate,Notting Hill
+Geales,Fish and Chips,Expensive,Notting Hill
+Mcdonalds,Burgers,Cheap,Notting Hill
+VQ Notting Hill,Burgers,Moderate,Notting Hill
+Beach Blanket Babylon,Burgers,Expensive,Notting Hill
+Arancina,Italian,Cheap,Bayswater
+Taormina,Italian,Moderate,Bayswater
+Assaggi Restaurant,Italian,Expensive,Bayswater
+Sushi Sashimi,Japanese,Cheap,Bayswater
+C and R Izakaya,Japanese,Moderate,Bayswater
+Cocoro Kaiseki,Japanese,Expensive,Bayswater
+Malaysian Hall Canteen,Malaysian,Cheap,Bayswater
+Tukdin Flavours of Malaysia,Malaysian,Moderate,Bayswater
+Lagenda Malaysia and Chinese Restaurant,Malaysian,Expensive,Bayswater
+Noodle Ooodle London,Chinese,Cheap,Bayswater
+Gold Mine,Chinese,Moderate,Bayswater
+Royal China Club,Chinese,Expensive,Bayswater
+Peking Seoul London,Korean,Cheap,Bayswater
+Peking Seoul London,Korean,Moderate,Bayswater
+Banana Tree Westbourne Grove,Vietnamese,Moderate,Bayswater
+Tem Tep,Vietnamese,Expensive,Bayswater
+Taste of India,Indian,Cheap,Bayswater
+Masala Zone Bayswater,Indian,Moderate,Bayswater
+Cote Brasserie,French,Moderate,Bayswater
+Angelus Restaurant,French,Expensive,Bayswater
+The Tiroler hut Restaurant,German,Cheap,Bayswater
+The Tiroler hut Restaurant,German,Moderate,Bayswater
+Las Tapas,Spanish,Moderate,Bayswater
+Las Tapas,Spanish,Cheap,Bayswater
+Poncho 8,Mexican,Cheap,Bayswater
+Taqueria,Mexican,Moderate,Bayswater
+Tawana Thai Restaurant,Thai,Moderate,Bayswater
+Nipa Thai,Thai,Expensive,Bayswater
+Horapha Thai,Thai,Cheap,Bayswater
+Bayswater Arms,British,Moderate,Bayswater
+Hereford Road Bayswater,British,Expensive,Bayswater
+Pret a Manger,British,Cheap,Bayswater
+Alounak,Middle Eastern,Moderate,Bayswater
+Fresco,Middle Eastern,Cheap,Bayswater
+Manoush Queensway,Middle Eastern,Expensive,Bayswater
+Fresco,Medditerranean,Cheap,Bayswater
+Santorini Restaurant,Medditerranean,Moderate,Bayswater
+Hobson's Fish and Chips,Fish and Chips,Cheap,Bayswater
+Hobson's Fish and Chips,Fish and Chips,Moderate,Bayswater
+Burger King,Burgers,Cheap,Bayswater
+Tinseltown,Burgers,Moderate,Bayswater
+Aubaine,Burgers,Expensive,Bayswater
+Lokkanta,Barbeque,Cheap,Bayswater
+Lokkanta,Barbeque,Moderate,Bayswater
+Franco Manca,Italian,Cheap,Kensington
+La Pappardella London,Italian,Moderate,Kensington
+il trillo Ristorante & Giardino,Italian,Expensive,Kensington
+Wasabi,Japanese,Cheap,Kensington
+Dozo,Japanese,Moderate,Kensington
+Yashin Sushi,Japanese,Expensive,Kensington
+Umami,Malaysian,Cheap,Kensington
+Umami,Malaysian,Moderate,Kensington
+Zheng,Malaysian,Expensive,Kensington
+Simya Korean Restaurant,Korean,Cheap,Kensington
+Lime Orange,Korean,Moderate,Kensington
+Oriental Canteen,Chinese,Cheap,Kensington
+Dragon Palace,Chinese,Moderate,Kensington
+Min Jiang Restaurant,Chinese,Expensive,Kensington
+Khobkhun Thai Cuisine,Thai,Cheap,Kensington
+Thai Square South Kensington,Thai,Moderate,Kensington
+Patara Thai Restaurant,Thai,Expensive,Kensington
+Phat Phuc Noodle Bar,Vietnamese,Cheap,Kensington
+Phat Phuc Noodle Bar,Vietnamese,Moderate,Kensington
+Go,Vietnamese,Expensive,Kensington
+Masala,Indian,Cheap,Kensington
+Memories of India Kensington,Indian,Moderate,Kensington
+Zaika,Indian,Expensive,Kensington
+Fernandez and Wells,Spanish,Cheap,Kensington
+Casa Brindisa South Kensington,Spanish,Moderate,Kensington
+Cambio de Tercio,Spanish,Expensive,Kensington
+Stein's Berlin Restaurant,German,Cheap,Kensington
+Stein's Berlin Restaurant,German,Moderate,Kensington
+Stein's Berlin Restaurant,German,Expensive,Kensington
+The Little French Restaurant,French,Cheap,Kensington
+Le Petit Sud,French,Moderate,Kensington
+Margaux,French,Expensive,Kensington
+Taquitos Mexican Grill,Mexican,Cheap,Kensington
+Lupita Mexican Restaurant,Mexican,Moderate,Kensington
+Lupita Mexican Restaurant,Mexican,Expensive,Kensington
+Baalbakis Restaurant,Middle Eastern,Cheap,Kensington
+Comptoir Libanais,Middle Eastern,Moderate,Kensington
+Comptoir Libanais,Middle Eastern,Expensive,Kensington
+Kings Medditerranean,Medditerranean,Cheap,Kensington
+Ceru South Kensington,Medditerranean,Moderate,Kensington
+Ceru South Kensington,Medditerranean,Expensive,Kensington
+Scoff and Banter Kensington,British,Moderate,Kensington
+Pret a Manger,British,Cheap,Kensington
+Restaurant Gordon Ramsay,British,Expensive,Kensington
+Gelgela,Fish and Chips,Cheap,Kensington
+Gelgela,Fish and Chips,Moderate,Kensington
+Garfunkel's,Fish and Chips,Expensive,Kensington
+Mcdonalds,Burgers,Cheap,Kensington
+Five Guys,Burgers,Moderate,Kensington
+Gourmet Burger Kitchen ,Burgers,Expensive,Kensington
+PJ's bar and grill,Barbeque,Cheap,Kensington
+Dirty Bones Kensington,Barbeque,Moderate,Kensington
+Hard Rock Café London,Barbeque,Expensive,Kensington
+Ecco Pizza,Italian,Cheap,Covent Garden
+Jamie's Italian,Italian,Moderate,Covent Garden
+San Carlo Chicchetti,Italian,Expensive,Covent Garden
+Itsu,Japanese,Cheap,Covent Garden
+Kanada Ya,Japanese,Moderate,Covent Garden
+Roka Aldwych,Japanese,Expensive,Covent Garden
+Kimchee to go,Korean,Cheap,Covent Garden
+On the bab,Korean,Moderate,Covent Garden
+Naru,Korean,Expensive,Covent Garden
+Rasa Sayang Restaurant,Malaysian,Cheap,Covent Garden
+Rasa Sayang Restaurant,Malaysian,Moderate,Covent Garden
+Rasa Sayang Restaurant,Malaysian,Expensive,Covent Garden
+Chez Antoinette,French,Cheap,Covent Garden
+Le Garrick,French,Moderate,Covent Garden
+Clos Maggiore,French,Expensive,Covent Garden
+Herman Ze German,German,Cheap,Covent Garden
+Lowlander Grand Café,German,Moderate,Covent Garden
+The Ivy Market Grill,German,Expensive,Covent Garden
+Siam Eatery Covent Garden,Thai,Cheap,Covent Garden
+Busaba Covent Garden,Thai,Moderate,Covent Garden
+Thai Square Covent Garden,Thai,Expensive,Covent Garden
+Lanzhou Lamian Noodle Bar,Chinese,Cheap,Covent Garden
+Ping Pong Covent Garden,Chinese,Moderate,Covent Garden
+Imperial China,Chinese,Expensive,Covent Garden
+Bhatti,Indian,Cheap,Covent Garden
+Strand Tandoori,Indian,Moderate,Covent Garden
+Shapur Indian Restaurant,Indian,Expensive,Covent Garden
+Viet Pho,Vietnamese,Cheap,Covent Garden
+Com Viet,Vietnamese,Moderate,Covent Garden
+Pho Covent Garden,Vietnamese,Expensive,Covent Garden
+Casa Manolo,Spanish,Cheap,Covent Garden
+Salvador and Amanda,Spanish,Moderate,Covent Garden
+Barrafina,Spanish,Expensive,Covent Garden
+Benito's Hat,Mexican,Cheap,Covent Garden
+Wahaca Covent Garden,Mexican,Moderate,Covent Garden
+Cantina Laredo,Mexican,Expensive,Covent Garden
+Koshari Street,Middle Eastern,Cheap,Covent Garden
+Simurgh,Middle Eastern,Moderate,Covent Garden
+The Barbary,Middle Eastern,Expensive,Covent Garden
+Leon,Medditerranean,Cheap,Covent Garden
+Sarastro,Medditerranean,Moderate,Covent Garden
+The Barbary,Medditerranean,Expensive,Covent Garden
+The Battersea Pie Station,British,Moderate,Covent Garden
+Rules,British,Expensive,Covent Garden
+Pret a Manger,British,Cheap,Covent Garden
+Burger king,Burgers,Cheap,Covent Garden
+Shake Shack Covent Garden,Burgers,Moderate,Covent Garden
+Gourmet Burger Kitchen ,Burgers,Expensive,Covent Garden
+Maxwell's Bar and Grill,Barbeque,Cheap,Covent Garden
+Big Easy Bar BQ and Crabshack,Barbeque,Moderate,Covent Garden
+Christopher's,Barbeque,Expensive,Covent Garden
+Ben's Fish and Chips,Fish and Chips,Cheap,Covent Garden
+Rock and Sole Plaice,Fish and Chips,Moderate,Covent Garden
+Loch Fyne Seafood and Grill Restaurant,Fish and Chips,Expensive,Covent Garden
+Ristorante Olivelli,Italian,Moderate,Southbank
+La Barca Ristorante,Italian,Expensive,Southbank
+Pizza Express,Italian,Cheap,Southbank
+Yo Sushi,Japanese,Cheap,Southbank
+Yamagoya,Japanese,Moderate,Southbank
+Hannah Japanese Restaurant,Japanese,Expensive,Southbank
+Zeitgeist,German,Moderate,Southbank
+Spazle,German,Cheap,Southbank
+Oxo Tower Restaurant,German,Expensive,Southbank
+Gogo Pocha,Korean,Cheap,Southbank
+Gogo Pocha,Korean,Moderate,Southbank
+Gogo Pocha,Korean,Expensive,Southbank
+Meson Don Felipe,Spanish,Cheap,Southbank
+Meson Don Felipe,Spanish,Moderate,Southbank
+Meson Don Felipe,Spanish,Expensive,Southbank
+Thai Silk,Thai,Moderate,Southbank
+Thai Silk,Thai,Expensive,Southbank
+Marie's Café,Thai,Cheap,Southbank
+Maria Sabina London,Mexican,Cheap,Southbank
+Wahaca Waterloo,Mexican,Moderate,Southbank
+Las Iguanas London Royal Festival Hall,Mexican,Expensive,Southbank
+Brasserie Blanc,French,Moderate,Southbank
+Brasserie Joel,French,Expensive,Southbank
+Auberge,French,Moderate,Southbank
+Shaheen tandoori restaurant,Indian,Cheap,Southbank
+Spice of India City,Indian,Moderate,Southbank
+The Thames,Indian,Expensive,Southbank
+Chinese Canteen,Chinese,Cheap,Southbank
+Ping Pong Southbank,Chinese,Moderate,Southbank
+Bao Fa Garden Chinese Restaurant,Chinese,Expensive,Southbank
+Union Viet Café,Vietnamese,Cheap,Southbank
+MOC Kitchen,Vietnamese,Moderate,Southbank
+MOC Kitchen,Vietnamese,Expensive,Southbank
+Arabica Bar and Kitchen,Middle Eastern,Moderate,Southbank
+Arabica Bar and Kitchen,Middle Eastern,Expensive,Southbank
+Arabica Bar and Kitchen,Middle Eastern,Cheap,Southbank
+Studio 6,Medditerranean,Moderate,Southbank
+Troia Southbank Charcoal Kebab Kitchen,Medditerranean,Expensive,Southbank
+Leon,Medditerranean,Cheap,Southbank
+The Green Room,British,Moderate,Southbank
+Skylon,British,Expensive,Southbank
+Masters Superfish,British,Cheap,Southbank
+Masters Superfish,Fish and Chips,Cheap,Southbank
+Doggett's Coat and Badge,Fish and Chips,Moderate,Southbank
+Gillray's Steakhouse,Fish and Chips,Expensive,Southbank
+The BBQ Club,Barbeque,Moderate,Southbank
+The BBQ Club,Barbeque,Cheap,Southbank
+Gillray's Steakhouse,Barbeque,Expensive,Southbank
+Honest Burgers,Burgers,Cheap,Southbank
+Giraffe South Bank,Burgers,Moderate,Southbank
+Gourmet Burger Kitchen ,Burgers,Expensive,Southbank
+Café 49,Italian,Cheap,Kings Cross
+Casa Tua Kings Cross,Italian,Moderate,Kings Cross
+Number Twelve Restaurant and Bar,Italian,Expensive,Kings Cross
+Wasabi,Japanese,Cheap,Kings Cross
+Itadaki Zen,Japanese,Moderate,Kings Cross
+Tamashii,Japanese,Expensive,Kings Cross
+Roti King,Malaysian,Moderate,Kings Cross
+German Gymnasium,German,Expensive,Kings Cross
+Girraffe Brunswick,German,Moderate,Kings Cross
+Girraffe Brunswick,German,Cheap,Kings Cross
+Paolina Thai Cuisine,Thai,Cheap,Kings Cross
+Supawan Thai Food,Thai,Moderate,Kings Cross
+Royal Thai Restaurant,Thai,Expensive,Kings Cross
+Camino Kings Cross,Spanish,Moderate,Kings Cross
+Camino Kings Cross,Spanish,Expensive,Kings Cross
+Camino Kings Cross,Spanish,Cheap,Kings Cross
+Tortilla Kings Cross,Mexican,Cheap,Kings Cross
+Benito's Hat,Mexican,Moderate,Kings Cross
+Las Iguanas Brunswick,Mexican,Expensive,Kings Cross
+Viet Baguette,Vietnamese,Cheap,Kings Cross
+Sen Viet,Vietnamese,Moderate,Kings Cross
+Sen Viet,Vietnamese,Expensive,Kings Cross
+Kimchee,Korean,Moderate,Kings Cross
+Kimchee,Korean,Expensive,Kings Cross
+Kimchee,Korean,Cheap,Kings Cross
+Dishoom,Indian,Moderate,Kings Cross
+Dishoom,Indian,Expensive,Kings Cross
+Tavistock Tandoori,Indian,Cheap,Kings Cross
+Bon Vivant,French,Moderate,Kings Cross
+Otto's French Restaurant,French,Expensive,Kings Cross
+Café Rouge Euston,French,Cheap,Kings Cross
+China House Bloomsbury,Chinese,Cheap,Kings Cross
+Chillicool restaurant,Chinese,Moderate,Kings Cross
+Hare and Tortoise,Chinese,Expensive,Kings Cross
+O'Neills Kings Cross,British,Moderate,Kings Cross
+The Gilbert Scott,British,Expensive,Kings Cross
+Bloomsbury Coffee House,British,Cheap,Kings Cross
+The King of Falefel,Middle Eastern,Cheap,Kings Cross
+Middleeat,Middle Eastern,Moderate,Kings Cross
+Saucy Russell,Medditerranean,Cheap,Kings Cross
+Mediterraneo Restaurant,Medditerranean,Moderate,Kings Cross
+Mediterraneo Restaurant,Medditerranean,Expensive,Kings Cross
+Cattle and Co,Barbeque,Moderate,Kings Cross
+Cattle and Co,Barbeque,Cheap,Kings Cross
+Mcdonalds,Burgers,Cheap,Kings Cross
+Prime Burger,Burgers,Moderate,Kings Cross
+Drake and Morgan,Burgers,Expensive,Kings Cross
+North Sea Fish Restaurant,Fish and Chips,Moderate,Kings Cross
+Eddies Fish Bar,Fish and Chips,Cheap,Kings Cross
+The Booking Office Bar,Fish and Chips,Expensive,Kings Cross
+Gianni's,Italian,Cheap,Westminster
+Gustoso Ristorante & Enoteca,Italian,Moderate,Westminster
+Quirinale,Italian,Expensive,Westminster
+Ichiriki Sushi House,Japanese,Cheap,Westminster
+Bone Daddies Victoria,Japanese,Moderate,Westminster
+Wagamama Victoria,Japanese,Expensive,Westminster
+Gopal's Corner,Malaysian,Cheap,Westminster
+Gopal's Corner,Malaysian,Moderate,Westminster
+Munich Cricket Club,German,Moderate,Westminster
+Munich Cricket Club,German,Cheap,Westminster
+Lime Orange,Korean,Moderate,Westminster
+Lime Orange,Korean,Cheap,Westminster
+Lime Orange,Korean,Expensive,Westminster
+Thai House,Thai,Cheap,Westminster
+Pimlico Thai,Thai,Moderate,Westminster
+Firecracker Westminster,Thai,Expensive,Westminster
+Bamboo Basket,Chinese,Cheap,Westminster
+Mala Sichuan,Chinese,Moderate,Westminster
+Firecracker Westminster,Chinese,Expensive,Westminster
+Circus Bros,Spanish,Cheap,Westminster
+Iberica Victoria,Spanish,Moderate,Westminster
+Iberica Victoria,Spanish,Expensive,Westminster
+Royal Quarter Café,French,Moderate,Westminster
+Royal Quarter Café,French,Expensive,Westminster
+Pret a Manger,French,Cheap,Westminster
+Santana Grill,Mexican,Cheap,Westminster
+Loco Mexicano,Mexican,Moderate,Westminster
+Loco Mexicano,Mexican,Expensive,Westminster
+Millbank Spice,Indian,Cheap,Westminster
+Paradise Indian Restaurant,Indian,Moderate,Westminster
+The Cinnamon Club,Indian,Expensive,Westminster
+Nouf Restaurant,Middle Eastern,Moderate,Westminster
+Nouf Restaurant,Middle Eastern,Cheap,Westminster
+Nouf Restaurant,Middle Eastern,Expensive,Westminster
+The Athenian,Medditerranean,Cheap,Westminster
+The Athenian,Medditerranean,Moderate,Westminster
+Cellarium Café and Terrace,Medditerranean,Expensive,Westminster
+The Marquis of Westminster,British,Cheap,Westminster
+Phoenix in Victoria,British,Moderate,Westminster
+Blue Boar Restaurant,British,Expensive,Westminster
+The Laughing Halibut,Fish and Chips,Cheap,Westminster
+The Marquis of Granby,Fish and Chips,Moderate,Westminster
+Caxton Grill,Fish and Chips,Expensive,Westminster
+Shake Shack Victoria Nova,Burgers,Moderate,Westminster
+M Victoria Street,Burgers,Expensive,Westminster
+Mcdonalds,Burgers,Cheap,Westminster
+Old Star,Barbeque,Cheap,Westminster
+Preto Victoria,Barbeque,Moderate,Westminster
+Caxton Grill,Barbeque,Expensive,Westminster
+The Mayfair Chippy,Fish and Chips,Cheap,Mayfair
+The Mayfair Chippy,Fish and Chips,Moderate,Mayfair
+The Mayfair Chippy,Fish and Chips,Expensive,Mayfair
+Mcdonalds,Burgers,Cheap,Mayfair
+Burger & Lobster Mayfair,Burgers,Moderate,Mayfair
+Hard Rock Cafe London,Burgers,Expensive,Mayfair
+Herman ze German,German,Cheap,Mayfair
+Herman ze German,German,Moderate,Mayfair
+34 Mayfair,German,Expensive,Mayfair
+Banh Mi Town,Vietnamese,Cheap,Mayfair
+Pho Oxford Circus,Vietnamese,Moderate,Mayfair
+Bimbibap to Go,Korean,Cheap,Mayfair
+Arang Restaurant,Korean,Moderate,Mayfair
+Cocochan,Korean,Expensive,Mayfair
+Café TPT,Chinese,Cheap,Mayfair
+Murger Hanhan Sackville Street,Chinese,Moderate,Mayfair
+Kai Mayfair,Chinese,Expensive,Mayfair
+Roti Chai,Indian,Cheap,Mayfair
+Rasa W1,Indian,Moderate,Mayfair
+Jamavar,Indian,Expensive,Mayfair
+Pret a Manger,French,Cheap,Mayfair
+Cote Brasserie,French,Moderate,Mayfair
+Le Gavroche,French,Expensive,Mayfair
+C and R Soho,Malaysian,Cheap,Mayfair
+Banana Tree Soho,Malaysian,Moderate,Mayfair
+LebanEats,Middle Eastern,Cheap,Mayfair
+Al Hamra,Middle Eastern,Moderate,Mayfair
+Noura,Middle Eastern,Expensive,Mayfair
+Papaya,Thai,Cheap,Mayfair
+Busaba St Christopher's Place,Thai,Moderate,Mayfair
+Patara Thai Restaurant Oxford Circus,Thai,Expensive,Mayfair
+LebanEats,Mediterranean,Cheap,Mayfair
+Ergon London,Mediterranean,Moderate,Mayfair
+Noura,Mediterranean,Expensive,Mayfair
+Bodean's BBQ,Barbeque,Cheap,Mayfair
+Bodean's BBQ,Barbeque,Moderate,Mayfair
+The Guinea Grill,Barbeque,Expensive,Mayfair
+Pret a Manger,British,Cheap,Mayfair
+"The Windmill, Mayfair",British,Moderate,Mayfair
+Corrigan's Mayfair,British,Expensive,Mayfair
+Tortilla,Mexican,Cheap,Mayfair
+L'Autre Polish & Mexican Restaurant,Mexican,Moderate,Mayfair
+Peyote Restaurant,Mexican,Expensive,Mayfair
+Itsu,Japanese,Cheap,Mayfair
+Restaurant Yoshino,Japanese,Moderate,Mayfair
+ROKA Mayfair,Japanese,Expensive,Mayfair
+Mayfair Pasta and Sandwich Bar,Italian,Cheap,Mayfair
+Delfino,Italian,Moderate,Mayfair
+C London,Italian,Expensive,Mayfair
+El Pirata of Mayfair - Tapas Bar Español,Spanish,Cheap,Mayfair
+El Pirata of Mayfair - Tapas Bar Español,Spanish,Moderate,Mayfair
+Sabor,Spanish,Expensive,Mayfair
+Happy Days,Fish and Chips,Cheap,City of London
+"Poppies Fish & Chips, Spitalfields",Fish and Chips,Moderate,City of London
+The Ivy City Garden,Fish and Chips,Expensive,City of London
+Mcdonalds,Burgers,Cheap,City of London
+Honest Burgers - Bank,Burgers,Moderate,City of London
+Goodman City,Burgers,Expensive,City of London
+Herman ze German,German,Cheap,City of London
+Bierschenke,German,Moderate,City of London
+Bierschenke,German,Expensive,City of London
+Hop Vietnamese,Vietnamese,Cheap,City of London
+Pho St Paul's,Vietnamese,Moderate,City of London
+Bibimbap ToGo,Korean,Cheap,City of London
+K Place,Korean,Moderate,City of London
+K Place,Korean,Expensive,City of London
+Wok Bok,Chinese,Cheap,City of London
+Kirin Chinese Restauran,Chinese,Moderate,City of London
+Yauatcha City,Chinese,Expensive,City of London
+TIFINBOX - Indian Street Food,Indian,Cheap,City of London
+Bangalore Express City,Indian,Moderate,City of London
+Mint Leaf Lounge,Indian,Expensive,City of London
+Café Rouge,French,Cheap,City of London
+Brasserie Blanc,French,Moderate,City of London
+La Dame de Pic London,French,Expensive,City of London
+Champor-Champor,Malaysian,Cheap,City of London
+Champor-Champor,Malaysian,Moderate,City of London
+City Best Kebab,Middle Eastern,Cheap,City of London
+Arabica Bar & Kitchen,Middle Eastern,Moderate,City of London
+Kenza Restaurant & Lounge,Middle Eastern,Expensive,City of London
+Mudmee Thai Restaurant,Thai,Cheap,City of London
+Oie,Thai,Moderate,City of London
+Thai Square Mansion House,Thai,Expensive,City of London
+Badolina,Mediterranean,Cheap,City of London
+Fora Restaurant,Mediterranean,Moderate,City of London
+HAZ St Paul's,Mediterranean,Expensive,City of London
+Porky's BBQ Bankside,Barbeque,Cheap,City of London
+Bodean's BBQ Tower Hill,Barbeque,Moderate,City of London
+WALTER AND MONTY,Barbeque,Expensive,City of London
+Pret a Manger,British,Cheap,City of London
+Simpsons Tavern,British,Moderate,City of London
+The Ivy City Garden,British,Expensive,City of London
+Chilango,Mexican,Cheap,City of London
+Wahaca St Paul's,Mexican,Moderate,City of London
+Cheeky Chicos,Mexican,Expensive,City of London
+Itsu,Japanese,Cheap,City of London
+Miyama,Japanese,Moderate,City of London
+SUSHISAMBA City,Japanese,Expensive,City of London
+Beboz Italian Street Food,Italian,Cheap,City of London
+Lantipasto City,Italian,Moderate,City of London
+Enoteca da Luca St Paul's,Italian,Expensive,City of London
+La Tasca,Spanish,Cheap,City of London
+"Las Banderas, City of London",Spanish,Moderate,City of London
+Hispania,Spanish,Expensive,City of London
